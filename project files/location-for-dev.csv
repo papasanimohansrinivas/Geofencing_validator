@@ -32,7 +32,7 @@ address,latitude,longitude
 
 
 
-### outside the city
+### outside the city,None,None
 "155 Lambert Dr, Princeton, NJ, United States", 40.389798, -74.714917
 "240 Rolling Hill Rd, Skillman, NJ, United States", 40.340864, -74.696987
 "15391 E 1st Ave, Aurora, CO, United States", 39.750217, -104.950106
@@ -42,7 +42,7 @@ address,latitude,longitude
 "West City Plaza, Wen'er W Rd, ChengXi ShangQuan, Xihu Qu, Hangzhou Shi, Zhejiang Sheng, China", 27.9934342,120.6713356
 "Wenzhou Exhibition Hall, 627 Chezhan Ave, Lucheng Qu, Wenzhou Shi, Zhejiang Sheng, China", 30.2805101,120.0928462
 
-### outside the state / province
+### outside the state / province,None,None
 "155 Lambert Dr, Princeton, NJ, United States", 39.718957, -104.808901
 "15391 E 1st Ave, Aurora, CO, United States", 34.020608, -117.964785
 "555 El Encanto Rd, City Industry, CA, United States", 33.505441, -86.772747
