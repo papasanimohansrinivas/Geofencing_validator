@@ -1,6 +1,6 @@
 address,latitude,longitude
 
-### correct ones
+### correct ones,None,None
 
 "155 Lambert Dr, Princeton, NJ, United States", 40.340864, -74.696987
 "15391 E 1st Ave, Aurora, CO, United States", 39.718957, -104.808901
